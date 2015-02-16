@@ -1,0 +1,9 @@
+{
+  "name": "stack-whistle",
+  "title": "Stack Whistle",
+  "id": "jid1-BfhSBFoRBQ3eIg",
+  "description": "Firefox enxtension for notifications from StackExchange sites",
+  "author": "Linostar",
+  "license": "GPL 3.0",
+  "version": "0.1"
+}
